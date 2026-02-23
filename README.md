@@ -2,7 +2,7 @@
 
 > Internship Project – Data Analysis & Machine Learning  
 > Role: Data Scientist Intern
-> Author: Shivan Mishra
+
 
 ---
 
