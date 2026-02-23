@@ -1,7 +1,8 @@
 # 🛍️ Customer Segmentation using K-Means Clustering
 
 > Internship Project – Data Analysis & Machine Learning  
-> Author: Prakhar Srivastava
+> Role: Data Scientist Intern
+> Author: Shivan Mishra
 
 ---
 
